@@ -1,15 +1,4 @@
-
-
-
-Skills:  Web Development / HTML / CSS / Javascript / React.js / DSA / JAVA / MongoDB
-
-
-- 💬 Ask me about Web Development 
-
-
-Social:
-
-   
+## Work Profile : Avinash Kumar  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atg05)](https://github.com/anuraghazra/github-readme-stats)
 
